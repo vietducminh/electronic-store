@@ -1,9 +1,6 @@
 # electronic-store
 Online store in ASP.NET Core MVC
 
-# Viet Thi Minh Do
-# Norwegian University of Science and Technology
-
 The project builds an online store in ASP.NET Core MVC 1.1.2 (Visual Studio 2017)
 
 Technologies used:
@@ -19,3 +16,7 @@ Main functionalities:
 + Shopping Cart
 + Administration functions: Create, Read, Update, Delete operations 
 + Authentication and securities
+
+Viet Thi Minh Do
+Norwegian University of Science and Technology
+Email: vietdtm83@gmail.com
